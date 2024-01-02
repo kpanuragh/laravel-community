@@ -1,3 +1,3 @@
-FROM arm32v7/nginx
+FROM arm64v8/nginx
 COPY . /usr/share/nginx/html
 
